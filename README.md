@@ -26,3 +26,14 @@ You are required to extend or add on to what you did for the formative assignmen
 - example, random list [0,5,7,34,75,19], user guesses [25, 1, 16, 11, 4, 7], less than list [1,4], greater than list [25,16,11]
 - display the following lists at the end, "user guesses", "less than", "greater than"
 
+
+
+### Part 2 Oral defense
+
+All summative assignments will have an oral defense portion.
+This gives you a chance to answer questions, explain your thought process, understanding of the problem and approach to solving it
+This gives you an opportunity to get some marks even if you didn't necessarily complete the solution.
+Schedule for oral defenses TBD.
+
+
+Good luck!
