@@ -1,19 +1,15 @@
-# Unit-1-Formative-2023
-Formative Assignment for Unit-1
+# Unit-1-Summative-2023
+Summative Assignment for Unit-1
 
 
 All instructions for this assignment are contained in this file
 
-Note, this assignment is not autograded, also it is formative so it is to serve as practice and an opportunity to gain feedback.
-Use this assignment to help you in finishing the summative assignment.
-
-
-
-## Problem
-
-Edit the file "formative_1.py"
-
+Edit the file "summative_1.py"
 In this file do the following.
+
+You are required to extend or add on to what you did for the formative assignment, below are the instructions for the formative portion that you should have already completed.
+
+## Formative part
 
 - Create a list of 10 random numbers between 1 and 100
 - Ask the user to guess a number in the list
@@ -22,5 +18,11 @@ In this file do the following.
 - allow the user to keep guessing numbers until they get a number right
 
 
+## Summative 
 
-### The summative assignment will be an addition onto this program, so if you want to do well then finish this code first.
+- keep track of all the users guesses in 2 lists
+- one list should hold all the guesses the user made that are less than the number they guessed correctly
+- the other list should contain all the guesses the user made that are greater than the number they guessed correctly
+- example, random list [0,5,7,34,75,19], user guesses [25, 1, 16, 11, 4, 7], less than list [1,4], greater than list [25,16,11]
+- display the following lists at the end, "user guesses", "less than", "greater than"
+
